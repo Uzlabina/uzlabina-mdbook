@@ -1,8 +1,8 @@
 # Archived
 
-Projekt byl spojen s @Uzlabina-Students a bude pokračovat tam do doby, než to uděláme xxl lepší a budem ready  
-Příští verze projektu bude k dispozici na lab.uzlabina.cz/~hykajak/other/zapisky/  
-Pro kontakt máme telegram group t.me/UzlabinaEU
+Projekt byl spojen s [@Uzlabina-Students](https://github.com/Uzlabina-Students/) a bude pokračovat [tam](https://github.com/Uzlabina-Students/uzlabina-mdbook) do doby, než to uděláme xxl lepší a budem ready  
+Příští verze projektu bude k dispozici na [lab.uzlabina.cz/~hykajak/other/zapisky/](http://lab.uzlabina.cz/~hykajak/other/zapisky/)  
+Pro kontakt máme telegram group [t.me/UzlabinaEU](https://t.me/UzlabinaEU)
 
 
 # /* uzlabina-mdbook
